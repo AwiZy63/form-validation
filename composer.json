@@ -1,0 +1,17 @@
+{
+    "name": "awizy/form-validation",
+    "authors": [
+        {
+            "name": "AwiZy63",
+            "email": "awizy0609@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.2",
+        "symfony/yaml": "^5.2",
+        "twig/twig": "^3.1"
+    },
+    "require": {
+        "symfony/swiftmailer-bundle": "^3.5"
+    }
+}
